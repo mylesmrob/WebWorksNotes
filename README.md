@@ -1,6 +1,6 @@
-Notes for How The Web Works:
+Notes for How The Web Works:<br />
 -Websites are stored on servers, either being retrieved by dynamic generation or
-from the code that is currently stored.
+from the code that is currently stored.<br />
 -Browsers are interpreters of the source code created for a website.
 -The address of a server is found through its IP, or internet protocol. When
 attempting to access it, users do not have to type out the full address, but
